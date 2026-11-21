@@ -1,4 +1,21 @@
-# GainShark
+<!--readme-header-->
+<p align="center">
+  <img src="docs/logo.png" width="128" alt="GainShark icon">
+</p>
+
+<h1 align="center">GainShark</h1>
+
+<p align="center">
+  <b>把 Sharkord 的音量上限提到 200%</b><br>
+  <sub>Raises the volume limit for users, screen shares and streams to 200%</sub>
+</p>
+
+<p align="center"><img alt="platform" src="https://img.shields.io/badge/platform-Sharkord%20plugin-57F287?logo=typescript&logoColor=white"><img alt="license" src="https://img.shields.io/github/license/TimmySheep/GainShark?label=license&color=green"></p>
+
+<p align="center"><sub>Fork of <a href="https://github.com/Benett53/GainShark">Benett53/GainShark</a></sub></p>
+
+---
+<!--/readme-header-->
 
 Sharkord plugin that raises the volume limit for users, screen shares and plugin streams from 100% to 200%.
 
